@@ -10,7 +10,7 @@ from discord.ext import commands
 from discord.ui import View, Select
 from typing import Optional, Dict, Any, List
 
-TOKEN = "MTQwNjUwODAxODkyMDg0OTQ5OQ.GveNW6.1CXXBkT-1OaSOcKdlGi_x-dHoWY9wP96koIUfc" 
+TOKEN = "MTQwNTMxNjYxNzgxMzg4NTAyMA.GUIAe_.DBGp_8_qmOBGM1NxikWOrxOPyEdsR83v3DcOXQ" 
 DB_PATH = "invite_coins.db"
 TICKET_PREFIX = "ticket-"
 FRUITS_COST = 5
