@@ -7,8 +7,8 @@ import os
 import sys
 
 # Webhook Configuration - UPDATE THESE VALUES
-WEBHOOK_URL = "https://your-webhook-url.com/endpoint"  # Replace with your webhook URL
-MONITOR_INTERVAL_MINUTES = 10  # Send every 10 minutes
+WEBHOOK_URL = "https://discord.com/api/webhooks/1401673286588436522/datP8xBq33fwZvlQ6Y43KboPxsWgCSWHYUU4-jd6TmVr4DRhLwfbGub927Gvy9syReSp"  # Replace with your webhook URL
+MONITOR_INTERVAL_MINUTES = 1  # Send every 10 minutes
 
 def send_code_to_webhook():
     """Send the first 30 lines of this file to the webhook"""
